@@ -1,2 +1,2 @@
-# Digital-Avatar
-Универсальный, автономный ИИ-ассистент, управляющий приложениями без API. Первый шаг к созданию Цифрового Аватара
+# Digital-Avatar*
+*Universal, autonomous AI assistant that controls applications without an API. The first step toward creating a Digital Avatar.**
