@@ -14,8 +14,6 @@ Digital Avatar uses **PAE (Pattern Analysis & Emulation)** to autonomously inter
 
 The current MVP (Minimum Viable Product) focuses on **Excel automation**.
 
-**For Businesses:** This technology allows you to automate Excel reports and workflows offline without APIs. Contact me at diktofonchik@gmail.com to discuss custom solutions.
-
 **Example:** The script autonomously opens Excel via Spotlight, reads the data from cell **B5** of the `test.xlsx` file, and outputs the result to the Terminal. This validates PAE’s ability to read, analyze, and act on local data without user intervention.
 
 -----
