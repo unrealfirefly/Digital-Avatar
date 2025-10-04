@@ -4,7 +4,7 @@
 
 **Author:** Alexander Chermashentsev (GitHub: unrealfirefly)  
 **License:** MIT (free for non-commercial use: personal projects, open-source, non-profits, research).  
-Commercial use? Email diktofonchik@gmail.com (starting at $500/year).
+
 
 -----
 
@@ -68,7 +68,7 @@ Your contribution will help us build cloud-independent AI that can rival Siri an
 | `test.xlsx` | Sample Excel file (e.g., cell B5 with "Sample Data"). |
 | `LICENSE` | MIT with a non-commercial clause. |
 
-**License:** MIT License (free for personal projects, non-profits, and research). Commercial use (revenue-generating products/services) requires a separate license. Contact **diktofonchik@gmail.com** (starting at $500/year).
+**License:** MIT License (free for personal projects, non-profits, and research).
 
 -----
 
